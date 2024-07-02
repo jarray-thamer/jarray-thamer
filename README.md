@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React native, UI/UX, Public speaking.**
 
-- 💬 Ask me about **React.js, Next.js, Shadcn UI, Tailwind.css,**
+- 💬 Ask me about **React.js, Next.js, Shadcn UI, Tailwind.css, and Prisma**
 
 - 📫 How to reach me **jarray.thamerr@gmail.com**
 
